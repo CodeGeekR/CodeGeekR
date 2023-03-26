@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tecnologías:
+## ✨ Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
@@ -34,17 +34,18 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
 </br>
 
-## Encuéntrame en:
+## 💬 Encuéntrame en:
 [![Twitter](https://img.shields.io/badge/Twitter-@geekrecargado-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/geekrecargado)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codegeeekr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/codegeeekr)
 [![Web](https://img.shields.io/badge/samuraidev.me-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://samuraidev.me)
 
-## Contacto y apoyo:
+## 📫 Contacto y apoyo:
 [![Email](https://img.shields.io/badge/sammydn7@gmail.com-email_personal_(1)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sammydn7@gmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/sammydn7V)
 
-## Proyectos destacados:
+<!--
+## 🔭 Proyectos destacados:
 [![Validator IMEI](https://img.shields.io/badge/Validator-IMEI-green.svg)](https://codegeekr.github.io/validatorIMEI/)
 [![Validator IMEI](https://img.shields.io/badge/Validator-IMEI-green.svg)](https://codegeekr.github.io/validatorIMEI/)
-
+-->
