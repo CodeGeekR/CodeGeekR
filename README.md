@@ -45,5 +45,6 @@ Here are some ideas to get you started:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/sammydn7V)
 
 ## Proyectos destacados:
+[![Validator IMEI](https://img.shields.io/badge/Validator-IMEI-green.svg)](https://codegeekr.github.io/validatorIMEI/) ||
 [![Validator IMEI](https://img.shields.io/badge/Validator-IMEI-green.svg)](https://codegeekr.github.io/validatorIMEI/)
 
