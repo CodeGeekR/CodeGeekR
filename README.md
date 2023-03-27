@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy, un desarrollador de software apasionado por la creación de herramientas web innovadoras y de alta calidad. Mi formación en Ingeniería de Software me ha proporcionado una sólida base teórica, mientras que mi experiencia de 12 años en la producción de equipos informáticos me ha permitido desarrollar habilidades prácticas y un enfoque orientado a resultados.
 
-Actualmente, estoy enfocado en crear soluciones web que brinden un valor agregado a los usuarios y resuelvan problemas reales. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos para seguir aprendiendo y creciendo profesionalmente.
+Actualmente, estoy enfocado en crear soluciones web que brinden un valor a los usuarios y resuelvan problemas reales. Me encanta trabajar en equipo y estoy siempre en busca de nuevos desafíos para seguir aprendiendo y creciendo profesionalmente.
 
 Si estás buscando un desarrollador apasionado y comprometido, ¡no dudes en contactarme! Estoy seguro de que puedo contribuir en tu proyecto y hacerlo realidad.
 
