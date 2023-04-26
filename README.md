@@ -1,4 +1,4 @@
-### Jr. Developer Web & Android
+### Front-End Developer & Mobile
 
 ¡Hola! 👋 Soy, un desarrollador de software apasionado por la creación de herramientas web innovadoras y de alta calidad. Mi formación en Ingeniería de Software me ha proporcionado una sólida base teórica, mientras que mi experiencia de 12 años en la producción de equipos informáticos me ha permitido desarrollar habilidades prácticas y un enfoque orientado a resultados.
 
