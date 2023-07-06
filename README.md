@@ -2,7 +2,7 @@
 
 ¡Hey, mundo digital! 👋 Soy el Samurái de la programación, luchando contra los desafíos tecnológicos con destreza y creatividad. Bienvenidos a mi dojo de desarrollo donde las ideas se convierten en código brillante. Con una mente afilada en Ingeniería de Software, perfecciono mis habilidades para crear herramientas que resuelven problemas de manera elegante. 
 
-Colaborar con mentes visionarias y explorar nuevas ideas es lo que me impulsa a crecer constantemente. Si tienes un proyecto emocionante, ¡soy tu aliado perfecto!
+Colaborar con personas visionarias y explorar nuevas ideas es lo que me impulsa a crecer constantemente. Si tienes un proyecto emocionante, ¡soy tu aliado perfecto!
 No dudes en contactarme y juntos heremos magia en el mundo de los bits. 💻✨
 
 <!--
