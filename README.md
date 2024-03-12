@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨ Tecnologías:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
+[![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://github.com/CodeGeekR)
 </br>
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&labelColor=101010)](https://github.com/CodeGeekR)
